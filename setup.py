@@ -18,7 +18,7 @@ setup(
     url="https://github.com/shravan-d/Annotation-CVAT",
     description="Custom Yolov7",
     #packages=find_packages(exclude=("configs", "tests*")) + list(PROJECTS.keys()),
-    python_requires="==3.8",
+    python_requires="==3.8.10",
     install_requires=[
         # Usage: pip install -r requirements.txt
 
