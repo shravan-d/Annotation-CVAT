@@ -51,9 +51,9 @@ setup(
         # openvino-dev  # OpenVINO export
 
         # Extras --------------------------------------
-        "ipython"  # interactive notebook
-        "psutil"  # system utilization
-        "thop"  # FLOPs computation
+        #"ipython"  # interactive notebook
+        #"psutil"  # system utilization
+        #"thop"  # FLOPs computation
         # albumentations>=1.0.3
         # pycocotools>=2.0  # COCO mAP
         # roboflow
